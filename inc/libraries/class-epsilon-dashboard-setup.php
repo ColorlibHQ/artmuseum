@@ -241,7 +241,7 @@ class Epsilon_Dashboard_Setup {
 				'integration' => true,
 				'recommended' => false,
 			),
-			'art-museum-companion' => array(
+			'artmuseum-companion' => array(
 				'integration' => true,
 				'recommended' => false,
 			),
@@ -266,7 +266,7 @@ class Epsilon_Dashboard_Setup {
 
 		if ( ! $integrated ) {
 			unset( $arr['contact-form-7'] );
-			unset( $arr['art-museum-companion'] );
+			unset( $arr['artmuseum-companion'] );
 			unset( $arr['elementor'] );
 			unset( $arr['one-click-demo-import'] );
 		}
@@ -424,19 +424,7 @@ class Epsilon_Dashboard_Setup {
 						'title'     => esc_html__( 'Step 3 - Customize everything', 'art-museum' ),
 						'paragraph' => esc_html__( 'Using the WordPress Customizer you can easily customize every aspect of the theme.', 'art-museum' ),
 						'action'    => '<a target="_blank" href="' . esc_url( admin_url() . 'customize.php' ) . '" class="button button-primary">' . esc_html__( 'Go to Customizer', 'art-museum' ) . '</a>',
-					),
-					array(
-						'title'     => esc_html__( 'Lend a hand and share your thoughts', 'art-museum' ),
-						'paragraph' => vsprintf(
-						// Translators: 1 is Theme Name, 2 is opening Anchor, 3 is closing.
-							__( 'We worked hard on making %1$s the best one out there. We are interested in hearing your thoughts about %1$s and what we could do to make it even better.<br/> <br/>', 'art-museum' ),
-							array(
-								$theme->get( 'Name' ),
-							)
-						),
-						'action'    => '<a class="button button-feedback" target="_blank" href="https://bit.ly/feedback-artmuseum">Have your say</a><br/>',
-						'type'      => 'standout',
-					),
+					)
 				),
 			),
 			array(
