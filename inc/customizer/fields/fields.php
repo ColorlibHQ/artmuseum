@@ -361,13 +361,18 @@ Epsilon_Customizer::add_field(
 );
 
 // Footer copy right text add settings
+
+// Copy right text
+$url = 'https://colorlib.com/';
+$copyText = sprintf( __( 'Theme by %s colorlib %s. Copyright &copy; %s  |  All rights reserved', 'art-museum' ), '<a href="' . esc_url( $url ) . '">', '</a>', date( 'Y' ) );
+
 Epsilon_Customizer::add_field(
     'artmuseum-copyright-text-settings',
     array(
         'type'        => 'epsilon-text-editor',
         'label'       => esc_html__( 'Footer copyright text', 'art-museum' ),
         'section'     => 'artmuseum_footer_options_section',
-        'default'     => esc_html( sprintf( __( 'Copyright &copy; %s  |  All rights reserved', 'art-museum' ), date( 'Y' ) ) ),
+        'default'     => wp_kses_post( $copyText ),
     )
 );
 // Footer widget background color field
