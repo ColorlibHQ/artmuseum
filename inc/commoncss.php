@@ -57,6 +57,7 @@ function artmuseum_common_custom_css() {
 			sub, 
 			u,
 			del,
+			a,
 			.genric-btn.primary-border,
 			.genric-btn.primary:hover,
 			.ordered-list li,
