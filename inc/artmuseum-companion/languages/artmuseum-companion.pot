@@ -1,0 +1,800 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Art Museum Companion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-04 13:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. 1: Elementor
+#: inc/elementor-widgets/elementor-widget.php:210
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. 1: Elementor 2: Required Elementor version
+#. 1: PHP 2: Required PHP version
+#: inc/elementor-widgets/elementor-widget.php:230
+#: inc/elementor-widgets/elementor-widget.php:248
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:90
+msgid "90.377155"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/sidebar-widgets/author-widget.php:27
+msgid "[ Art Museum ] Author Widget"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/sidebar-widgets/newsletter-widget.php:24
+msgid "[ Art Museum ] Newsletter Form"
+msgstr ""
+
+#: inc/sidebar-widgets/recent-post-thumb.php:92
+msgid "[ Art Museum ] Recent Post"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/sidebar-widgets/social-widget.php:27
+msgid "[ Art Museum ] Social Widget"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:79
+msgid "About Content"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:32
+msgid "About Us"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:30
+msgid "Add author content"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/exibition.php:109
+msgid "Add exibition categories like this format: Travel,Life style"
+msgstr ""
+
+#: inc/sidebar-widgets/newsletter-widget.php:27
+msgid "Add footer newsletter signup form."
+msgstr ""
+
+#: inc/sidebar-widgets/recent-post-thumb.php:27
+msgid "Add recent post with thumbnail"
+msgstr ""
+
+#: inc/sidebar-widgets/social-widget.php:30
+msgid "Add social content"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:68
+msgid "Address"
+msgstr ""
+
+#: inc/elementor-widgets/elementor-widget.php:231
+#: inc/elementor-widgets/elementor-widget.php:249
+msgid "Art Museum"
+msgstr ""
+
+#. Name of the plugin
+msgid "Art Museum Companion"
+msgstr ""
+
+#. Description of the plugin
+msgid "Art Museum Companion is a companion for Art Museum theme."
+msgstr ""
+
+#: inc/elementor-widgets/elementor-widget.php:266
+msgid "Art Museum Elements"
+msgstr ""
+
+#: inc/elementor-widgets/elementor-widget.php:211
+msgid "Art Museum Theme"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/events.php:252
+msgid "at"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:100
+msgid "Author Name"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:277
+#: inc/elementor-widgets/widgets/features.php:294
+msgid "Background"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:33
+msgid "Banner"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:52
+msgid "Banner Section Content"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:72
+msgid ""
+"Before use map widget make sure you are set google map api key from "
+"customizer -> theme options -> general -> google map api key"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:174
+#: inc/sidebar-widgets/social-widget.php:155
+msgid "Behance Url:"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:51
+msgid "Blgo"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:32
+msgid "Blog"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:141
+msgid "Blog Text Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:121
+msgid "Blog Title Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:131
+msgid "Blog Title Hover Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:105
+msgid "Bold Title Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:312
+msgid "Border"
+msgstr ""
+
+#: inc/artmuseum-meta/artmuseum-meta-config.php:25
+msgid "Builder Page Header Settings"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:217
+#: inc/elementor-widgets/widgets/features.php:237
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:197
+msgid "Button Border Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:227
+#: inc/elementor-widgets/widgets/features.php:246
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:207
+msgid "Button Hover Border Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:187
+msgid "Button Hover Label Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:82
+#: inc/elementor-widgets/widgets/events.php:118
+#: inc/elementor-widgets/widgets/features.php:86
+msgid "Button Label"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:177
+msgid "Button Label Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:219
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:228
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:91
+#: inc/elementor-widgets/widgets/events.php:123
+#: inc/elementor-widgets/widgets/features.php:91
+msgid "Button Url"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:32
+msgid "Call To Action"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:50
+msgid "Call To Action Content"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/exibition.php:108
+msgid "Categories"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:192
+msgid "Change Image"
+msgstr ""
+
+#: inc/elementor-widgets/elementor-widget.php:103
+#: inc/elementor-widgets/elementor-widget.php:119
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Author of the plugin
+msgid "Colorlib"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/recent-works.php:95
+msgid "Column"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:94
+#: inc/elementor-widgets/widgets/call-to-action.php:65
+#: inc/elementor-widgets/widgets/contact.php:32
+msgid "Contact"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:120
+msgid "Contact Descriptions"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:141
+msgid "Contact Form"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:101
+#: inc/elementor-widgets/widgets/contact.php:113
+msgid "Contact Info"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/quote-section.php:54
+#: inc/elementor-widgets/widgets/quote-section.php:77
+msgid "Content Left"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/quote-section.php:61
+#: inc/elementor-widgets/widgets/quote-section.php:88
+msgid "Content Right"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:107
+msgid "Create Contact Info"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/events.php:82
+msgid "Create events"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/exibition.php:83
+msgid "Create Exibition"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:58
+msgid "Create Features"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/gallery.php:82
+msgid "Create gallery"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/exhibitions-ticket.php:82
+msgid "Create Ticket"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/recent-works.php:82
+msgid "Create Work"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/events.php:101
+#: inc/elementor-widgets/widgets/exhibitions-ticket.php:101
+#: inc/elementor-widgets/widgets/exibition.php:102
+msgid "Date"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:162
+msgid "Date Background Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:152
+msgid "Date Color"
+msgstr ""
+
+#: inc/demo-data/demo-import.php:16
+msgid "Demo Preview Imgae"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:74
+msgid "Description"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:170
+#: inc/elementor-widgets/widgets/banner.php:141
+msgid "Description Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/events.php:113
+#: inc/elementor-widgets/widgets/exhibitions-ticket.php:111
+#: inc/elementor-widgets/widgets/exibition.php:115
+#: inc/elementor-widgets/widgets/features.php:76
+msgid "Descriptions"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:188
+#: inc/elementor-widgets/widgets/features.php:209
+msgid "Descriptions Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:116
+msgid "Dhaka, Bangladesh"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:169
+#: inc/sidebar-widgets/social-widget.php:150
+msgid "Dribbble Url:"
+msgstr ""
+
+#: inc/elementor-widgets/elementor-widget.php:212
+#: inc/elementor-widgets/elementor-widget.php:232
+msgid "Elementor"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/events.php:33
+#: inc/elementor-widgets/widgets/events.php:77
+msgid "Events"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/events.php:52
+msgid "Events Section Heading"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:59
+msgid "Everything You can imagine is right here"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/exhibitions-ticket.php:33
+#: inc/elementor-widgets/widgets/exhibitions-ticket.php:77
+msgid "Exhibitions Ticket"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/exhibitions-ticket.php:52
+msgid "Exhibitions Ticket Section Heading"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/exibition.php:33
+#: inc/elementor-widgets/widgets/exibition.php:78
+msgid "Exibition"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/exibition.php:52
+msgid "Exibition Section Heading"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:85
+msgid "Explore Us"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:159
+#: inc/sidebar-widgets/social-widget.php:140
+msgid "Facebook Url:"
+msgstr ""
+
+#: inc/artmuseum-meta/artmuseum-meta-config.php:56
+#: inc/elementor-widgets/widgets/about.php:103
+#: inc/elementor-widgets/widgets/call-to-action.php:74
+msgid "Featured Image"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:34
+#: inc/elementor-widgets/widgets/features.php:53
+msgid "Features"
+msgstr ""
+
+#: inc/sidebar-widgets/social-widget.php:88
+msgid "Follow Us"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:71
+msgid "Font Icon"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:137
+msgid "Font Icon Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:235
+msgid "Form Button Hover Label color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:225
+msgid "Form Button Label color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:147
+msgid "Form Shortcode"
+msgstr ""
+
+#: inc/artmuseum-meta/artmuseum-meta-config.php:55
+msgid "From Customize"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/gallery.php:33
+#: inc/elementor-widgets/widgets/gallery.php:77
+#: inc/elementor-widgets/widgets/recent-works.php:77
+msgid "Gallery"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/gallery.php:52
+msgid "Gallery Section Heading"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:215
+msgid "Heading color"
+msgstr ""
+
+#: inc/artmuseum-meta/artmuseum-meta-config.php:43
+#: inc/elementor-widgets/widgets/contact.php:60
+msgid "Hide"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:81
+msgid "Hover Descriptions"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://colorlib.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://colorlib.com/wp/themes/artmuseum/"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:126
+msgid "Icon"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:147
+msgid "Icon Font Size"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:179
+#: inc/elementor-widgets/widgets/events.php:129
+msgid "Image"
+msgstr ""
+
+#: inc/demo-data/demo-import.php:63
+msgid "Import Demo Data"
+msgstr ""
+
+#: artmuseum-companion.php:67
+#, php-format
+msgid ""
+"In order to use the <strong>Art Museum Companion</strong> plugin you have to "
+"also install the %1$sArtmuseum Theme%2$s"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:97
+#: inc/elementor-widgets/widgets/call-to-action.php:68
+msgid ""
+"inappropriate behaviour is often laughed off as “boys will be boys,” women "
+"face higher conduct standards – especially in the workplace. That’s why it’s "
+"crucial that, as women."
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:78
+msgid "Latitude"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/events.php:106
+msgid "Location"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:87
+msgid "Longitude"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:51
+msgid "Map Settings"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/exibition.php:89
+#: inc/elementor-widgets/widgets/recent-works.php:88
+msgid "Name"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:185
+msgid "No image selected"
+msgstr ""
+
+#: inc/demo-data/demo-import.php:62
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:159
+msgid "Overlay Background"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/exhibitions-ticket.php:117
+#: inc/elementor-widgets/widgets/exibition.php:120
+#: inc/elementor-widgets/widgets/recent-works.php:114
+msgid "Photo"
+msgstr ""
+
+#: inc/elementor-widgets/elementor-widget.php:250
+msgid "PHP"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:73
+msgid "Post Limit"
+msgstr ""
+
+#: inc/sidebar-widgets/recent-post-thumb.php:108
+msgid "Posts Number:"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/exhibitions-ticket.php:106
+msgid "Price"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/quote-section.php:29
+#: inc/elementor-widgets/widgets/quote-section.php:48
+msgid "Quote Section"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:71
+msgid "Rabindra Sorobor Dhanmondi Lake Rd"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/recent-works.php:52
+msgid "Recent Work Section Heading"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/recent-works.php:33
+msgid "Recent Works"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:190
+msgid "Remove"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:52
+#: inc/elementor-widgets/widgets/section-heading.php:32
+#: inc/elementor-widgets/widgets/section-heading.php:50
+msgid "Section Heading"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:65
+msgid "Section Sub Title"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:101
+#: inc/elementor-widgets/widgets/events.php:163
+#: inc/elementor-widgets/widgets/exhibitions-ticket.php:151
+#: inc/elementor-widgets/widgets/exibition.php:150
+#: inc/elementor-widgets/widgets/gallery.php:116
+#: inc/elementor-widgets/widgets/recent-works.php:148
+#: inc/elementor-widgets/widgets/section-heading.php:106
+msgid "Section Sub Title Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:57
+msgid "Section Title"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:90
+#: inc/elementor-widgets/widgets/events.php:152
+#: inc/elementor-widgets/widgets/exhibitions-ticket.php:140
+#: inc/elementor-widgets/widgets/exibition.php:139
+#: inc/elementor-widgets/widgets/gallery.php:105
+#: inc/elementor-widgets/widgets/recent-works.php:137
+#: inc/elementor-widgets/widgets/section-heading.php:83
+msgid "Section Title Color"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:192
+msgid "Select Image"
+msgstr ""
+
+#: inc/artmuseum-meta/artmuseum-meta-config.php:36
+msgid "Select Page Header"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:161
+msgid "Set banner overlay background color."
+msgstr ""
+
+#: inc/artmuseum-meta/artmuseum-meta-config.php:49
+msgid "Set Page Header Background"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:154
+#: inc/sidebar-widgets/social-widget.php:135
+msgid "Short Descriptions:"
+msgstr ""
+
+#: inc/artmuseum-meta/artmuseum-meta-config.php:42
+#: inc/elementor-widgets/widgets/contact.php:59
+msgid "Show"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:57
+msgid "Show Map"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:171
+msgid "Style Button"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:154
+#: inc/elementor-widgets/widgets/call-to-action.php:89
+msgid "Style Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:103
+#: inc/elementor-widgets/widgets/blog.php:115
+msgid "Style Content"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:198
+msgid "Style Content Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/quote-section.php:71
+msgid "Style Description"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:181
+msgid "Style Descriptions"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:104
+msgid "Style Features"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:130
+msgid "Style Font Icon"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:285
+msgid "Style Hover Service Box Background Color "
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:202
+msgid "Style Hover Services"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/section-heading.php:77
+msgid "Style Section"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:118
+#: inc/elementor-widgets/widgets/blog.php:84
+#: inc/elementor-widgets/widgets/contact.php:163
+#: inc/elementor-widgets/widgets/events.php:146
+#: inc/elementor-widgets/widgets/exhibitions-ticket.php:134
+#: inc/elementor-widgets/widgets/exibition.php:133
+#: inc/elementor-widgets/widgets/gallery.php:99
+#: inc/elementor-widgets/widgets/recent-works.php:131
+msgid "Style Section Heading"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:267
+msgid "Style Service Box Background Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:303
+msgid "Style Service Box Border Color "
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:111
+msgid "Style Service Title "
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:260
+msgid "Style Services Box"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:67
+#: inc/elementor-widgets/widgets/events.php:65
+#: inc/elementor-widgets/widgets/exhibitions-ticket.php:65
+#: inc/elementor-widgets/widgets/exibition.php:65
+#: inc/elementor-widgets/widgets/gallery.php:65
+#: inc/elementor-widgets/widgets/recent-works.php:65
+#: inc/elementor-widgets/widgets/section-heading.php:64
+msgid "Sub Title"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:134
+msgid "Sub Title Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:179
+msgid "Sub title color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:205
+msgid "Text color"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/sidebar-widgets/recent-post-thumb.php:24
+msgid "Thumbnail Recent Post"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:58
+#: inc/elementor-widgets/widgets/about.php:85
+#: inc/elementor-widgets/widgets/call-to-action.php:56
+#: inc/elementor-widgets/widgets/events.php:57
+#: inc/elementor-widgets/widgets/events.php:88
+#: inc/elementor-widgets/widgets/exhibitions-ticket.php:57
+#: inc/elementor-widgets/widgets/exhibitions-ticket.php:88
+#: inc/elementor-widgets/widgets/exibition.php:57
+#: inc/elementor-widgets/widgets/features.php:64
+#: inc/elementor-widgets/widgets/gallery.php:57
+#: inc/elementor-widgets/widgets/recent-works.php:57
+#: inc/elementor-widgets/widgets/section-heading.php:56
+msgid "Title"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:58
+msgid "Title #1"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:109
+msgid "Title #1 Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:66
+msgid "Title #2"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:125
+msgid "Title #2 Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:124
+#: inc/elementor-widgets/widgets/about.php:160
+#: inc/elementor-widgets/widgets/call-to-action.php:95
+#: inc/elementor-widgets/widgets/contact.php:169
+#: inc/elementor-widgets/widgets/features.php:118
+msgid "Title Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/events.php:95
+#: inc/elementor-widgets/widgets/exhibitions-ticket.php:95
+#: inc/elementor-widgets/widgets/exibition.php:96
+msgid "Title Url"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:149
+#: inc/sidebar-widgets/recent-post-thumb.php:104
+#: inc/sidebar-widgets/social-widget.php:130
+msgid "Title:"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:164
+#: inc/sidebar-widgets/social-widget.php:145
+msgid "Twitter Url:"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:88
+msgid "We Realize that there are reduced Wastege Stand out"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:122
+msgid "Write something..."
+msgstr ""

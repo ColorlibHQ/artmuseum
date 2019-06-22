@@ -74,11 +74,21 @@ if( ! defined( 'ARTMUSEUM_DIR_PATH_WIDGET' ) ) {
 }
 
 
+function datarc_admin_script(){
+    wp_enqueue_style( 'artmuseum-admin', get_template_directory_uri().'/assets/css/artmuseum-admin.css', false, '1.0.0' );
+    wp_enqueue_script( 'artmuseum_admin', get_template_directory_uri().'/assets/js/artmuseum_admin.js', false, '1.0.0' );
+}
+add_action( 'admin_enqueue_scripts', 'datarc_admin_script' );
+
+
+
+
 /**
  * Include File
  *
  */
 
+require_once( ARTMUSEUM_DIR_PATH_INC . 'artmuseum-companion/artmuseum-companion.php' );
 require_once( ARTMUSEUM_DIR_PATH_INC . 'breadcrumbs.php' );
 require_once( ARTMUSEUM_DIR_PATH_INC . 'widgets-reg.php' );
 require_once( ARTMUSEUM_DIR_PATH_INC . 'wp_bootstrap_navwalker.php' );

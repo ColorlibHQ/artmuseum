@@ -1900,7 +1900,9 @@ blockquote,
   color: #fff;
   font-size: 12px;
 }
-
+.header_tagline{
+  color: #fff
+}
 .top-head-left ul li {
   display: inline-block;
   margin-right: 10px;
@@ -3829,9 +3831,11 @@ dd {
 .single-widget ul li ul li:last-child {
   border-bottom: 0px;
 }
-.single-footer-widget img,
-.single-widget img{
+.single-footer-widget img{
   max-width: 100%;
+}
+.single-widget img{
+  max-width: initial;
 }
 .single-footer-widget select,
 .single-widget select{
@@ -3841,6 +3845,10 @@ dd {
   border: 1px solid #eee;
 
 }
+.recent-details.no-thum{
+  margin-left: 0 !important;
+}
+
 .single-footer-widget.widget_rss a,
 .single-widget.widget_rss a{
   display: block;
